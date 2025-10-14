@@ -32,4 +32,23 @@
 - Provides detailed findings with severity levels and recommended remediation steps
 - Integrates with other AWS services like CloudWatch Events and Lambda for automated responses
 - **Focus**: AWS resource-level security monitoring and threat detection
+
+## Amazon Inspector
+
+**When to use (Application Vulnerability Assessment):**
+- **Vulnerability Assessment**: When you need to assess applications for vulnerabilities and deviations from best practices
+- **Compliance Requirements**: When you need to meet compliance standards that require regular vulnerability assessments
+- **Security Hardening**: When you want to identify and fix security issues in your applications before deployment
+- **Continuous Security**: When you need ongoing security assessment of your applications running on EC2 instances
+- **Container Security**: When you need to assess container images for vulnerabilities before deployment
+
+**Key features:**
+- Automatically assesses applications for exposure, vulnerabilities, and deviations from best practices
+- Provides detailed findings with severity levels and remediation recommendations
+- Supports both EC2 instances and container images (ECR)
+- Uses AWS knowledge base of security research and best practices
+- Integrates with AWS Security Hub for centralized security findings
+- Can be scheduled to run assessments automatically
+- Provides risk scores and detailed reports for compliance documentation
+- **Focus**: Application-level vulnerability assessment and security compliance
  

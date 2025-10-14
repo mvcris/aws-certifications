@@ -19,3 +19,23 @@ Essential AWS tools for security and optimization including AWS Trusted Advisor,
 ### [Exam Analysis and Practice](./exams.md)
 Detailed analysis of AWS Cloud Practitioner exam questions, including wrong answers analysis, practice tests, and exam strategies. **Very important for the exam** for learning from mistakes and improving my test-taking approach.
 
+---
+
+## 🏆 Certification Achievement
+
+### AWS Cloud Practitioner - PASSED ✅
+
+**Exam Date:** October 14th, 2024  
+**Status:** Approved  
+**Certificate Link:** [View Certificate](https://www.credly.com/badges/9986fe60-fd3c-4081-9829-14b6765b833b)
+
+#### Personal Exam Experience
+
+The exam was quite manageable for someone who uses AWS on a daily basis. I believe **2 weeks of study is sufficient** - mainly to get familiar with the broader catalog of AWS products and services beyond what you use regularly.
+
+**Key Observations:**
+- Many questions can be answered through **process of elimination** - it's often easy to identify the correct answer by eliminating options that are clearly from different contexts
+- For example: when asked about AI tools, only 1 out of 5 options is actually an AI service, while the others are completely different types of services
+- The exam focuses heavily on understanding AWS service categories and use cases rather than deep technical implementation details
+- Having hands-on AWS experience significantly helps with contextual understanding of the questions
+
