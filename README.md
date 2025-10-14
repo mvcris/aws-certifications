@@ -10,3 +10,10 @@
 
 *For detailed exam experience and study notes, see the [Cloud Practitioner Study Guide](./cloud-practitioner/index.md)*
 
+---
+
+## 🎯 Next Certification Target
+
+### AWS Certified Solutions Architect – Associate
+*Coming soon - Study materials and preparation notes will be added here*
+
